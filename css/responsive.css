@@ -125,6 +125,7 @@
 
 
 @media (max-width: 480px) {
+
     .custom_nav2 .nav-item {
         flex-basis: 100%;
     }
@@ -186,6 +187,18 @@
 }
 
 @media (max-width: 400px) {
+
+
+    .brand_box .navbar-brand span {
+        padding-left: 25px;
+      }
+
+    .body { 
+        margin-left: 100px;
+        height: 100%;
+    }
+
+
     .custom_nav2 .nav-item {
         flex-basis: 100%;
     }
@@ -211,17 +224,17 @@
         text-align: center;
         margin-left: -560px;
         margin-right: 100px;
-        padding-left: 10px;
+        padding-left: 25px;
         font-size: 26pt;
     }
 
     .shop_section .box .detail-box h3 {
         margin-left: -650px;
-        padding-left: 10px;
+        padding-left: 20px;
     }
 
     .shop_section .box .detail-box h4 {
-        margin-left: -450px;
+        margin-left: -420px;
         padding-top: 5px;
         font-size: 13pt;
       }
