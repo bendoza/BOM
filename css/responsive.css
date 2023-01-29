@@ -196,7 +196,12 @@
     .body { 
         margin-left: 100px;
         height: 100%;
+        width: 100%;
     }
+
+    .shop_section .box .detail-box p {
+        padding-left: 50px;
+      }
 
 
     .custom_nav2 .nav-item {
@@ -209,12 +214,14 @@
     }
 
     .shop_section .box .detail-box h1 {
+        width: 100%;
         margin-left: 200px;
         padding-right: 250px;
         font-size: 9pt;
     }
 
     .shop_section .box .detail-box h2 {
+        width: 100%;
         margin-left: -640px;
         padding-left: 10px;
         font-size: 28pt;
