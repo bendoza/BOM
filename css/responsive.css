@@ -220,16 +220,11 @@
         font-size: 9pt;
     }
 
-    .shop_section .box .detail-box h2 {
-        width: 100%;
-        margin-left: -640px;
-        padding-left: 10px;
-        font-size: 28pt;
-    }
+
 
     .shop_section .box .detail-box h2 {
         text-align: center;
-        margin-left: -560px;
+        margin-left: -580px;
         margin-right: 100px;
         padding-left: 25px;
         font-size: 26pt;
@@ -241,7 +236,7 @@
     }
 
     .shop_section .box .detail-box h4 {
-        margin-left: -420px;
+        margin-left: -500px;
         padding-top: 5px;
         font-size: 13pt;
       }
@@ -261,8 +256,8 @@
       .shop_section .box .detail-box p {
         text-align: center;
         font-size: 10pt;
-        margin-left: -510px;
-        margin-right: 140px;
+        margin-left: -550px;
+        margin-right: 160px;
         margin-top: 30px;
         margin-bottom: 0;
       }

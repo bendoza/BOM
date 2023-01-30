@@ -245,6 +245,15 @@ a:focus {
   color: #313131;
 }
 
+.shop_section .heading_container hr {
+  width: 20%;
+  height: 1px;
+  border: none;
+  margin: 0;
+  margin-right: 10px;
+  background-color: #b7b7b7;
+}
+
 .about_section .img-box {
   padding: 35px 0;
   background-color: #ececec;
