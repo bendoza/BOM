@@ -34,11 +34,6 @@
         background-position: 1000%, 800%;
         padding: 45px 0;
       }
-
-      .shop_section .box {
-        margin-left: 500px;
-        padding-right: 200px;
-      }
 }
 
 @media (max-width: 768px) {
@@ -134,56 +129,6 @@
     .client_section .carousel-control-next {
         display: none;
     }
-
-    .shop_section .box .detail-box h1 {
-        margin-left: 200px;
-        padding-right: 250px;
-        font-size: 9pt;
-    }
-
-    .shop_section .box .detail-box h2 {
-        margin-left: -640px;
-        padding-left: 10px;
-        font-size: 28pt;
-    }
-
-    .shop_section .box .detail-box h2 {
-        margin-left: -640px;
-        padding-left: 10px;
-        font-size: 28pt;
-    }
-
-    .shop_section .box .detail-box h3 {
-        margin-left: -640px;
-        padding-left: 10px;
-    }
-
-    .shop_section .box .detail-box h4 {
-        margin-left: -450px;
-        padding-top: 5px;
-        font-size: 13pt;
-      }
-
-    .shop_section .box .detail-box h5 {
-        margin-left: -450px;
-        padding-top: -15px;
-        font-size: 13pt;
-    }
-
-    .shop_section .box .detail-box h6 {
-        margin-left: 200px;
-        padding-right: 250px;
-        font-size: 13pt;
-      }
-
-      .shop_section .box .detail-box p {
-        text-align: center;
-        font-size: 10pt;
-        margin-left: -500px;
-        margin-right: 140px;
-        margin-top: 30px;
-        margin-bottom: 0;
-      }
 }
 
 @media (max-width: 400px) {
@@ -199,10 +144,6 @@
         width: 100%;
     }
 
-    .shop_section .box .detail-box p {
-        padding-left: 50px;
-      }
-
 
     .custom_nav2 .nav-item {
         flex-basis: 100%;
@@ -212,55 +153,6 @@
     .client_section .carousel-control-next {
         display: none;
     }
-
-    .shop_section .box .detail-box h1 {
-        width: 100%;
-        margin-left: 200px;
-        padding-right: 250px;
-        font-size: 9pt;
-    }
-
-
-
-    .shop_section .box .detail-box h2 {
-        text-align: center;
-        margin-left: -580px;
-        margin-right: 100px;
-        padding-left: 25px;
-        font-size: 26pt;
-    }
-
-    .shop_section .box .detail-box h3 {
-        margin-left: -650px;
-        padding-left: 20px;
-    }
-
-    .shop_section .box .detail-box h4 {
-        margin-left: -500px;
-        padding-top: 5px;
-        font-size: 13pt;
-      }
-
-    .shop_section .box .detail-box h5 {
-        margin-left: -450px;
-        padding-top: -15px;
-        font-size: 13pt;
-    }
-
-    .shop_section .box .detail-box h6 {
-        margin-left: 200px;
-        padding-right: 250px;
-        font-size: 13pt;
-      }
-
-      .shop_section .box .detail-box p {
-        text-align: center;
-        font-size: 10pt;
-        margin-left: -550px;
-        margin-right: 160px;
-        margin-top: 30px;
-        margin-bottom: 0;
-      }
 }
 
 @media (max-width: 360px) {
