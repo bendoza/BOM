@@ -26,7 +26,6 @@
     }
 
     .sub_page .brand_box {
-        position: relative;
         background-color: #000000;
         background-image: url(../images/BOMLogo.png), url(../images/BOMLogo.png);
         background-repeat: no-repeat, no-repeat;
@@ -132,11 +131,6 @@
 }
 
 @media (max-width: 400px) {
-
-
-    .brand_box .navbar-brand span {
-        padding-left: 25px;
-      }
 
     .body { 
         margin-left: 100px;
