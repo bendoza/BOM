@@ -1,3 +1,0 @@
-1. Finish dynamically aligning the items and their respective prices.
-2. Figure out a way to bring in lines, or any way to distinguish different items and their prices.
-3. Visibly hyperlink or list an instruction stating to click each category.
