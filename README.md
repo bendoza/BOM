@@ -4,4 +4,6 @@ This repository is the base for Bourbon on Main's [drink list](https://sea-turtl
 
 I was to make a website that is optimized for mobile environments, and is simple enough to load when even wifi/cellular service is slow.
 
+With that being said, the website is optimally formatted for mobile devices.
+
 The domain name is also purposely sub-optimal because it was intended to be solely reached by a QR code, to where the tangible URL of the website was obsolete.
